@@ -1,0 +1,69 @@
+body {
+  font-family: 'Bebas Neue', Times New Roman;
+}
+
+footer {
+  font-size: 10px;
+  background-color: #002266;
+  padding: 2% 15%;
+}
+
+.background {
+  background-color: #002266;
+}
+
+.webcontent {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+#StrategicContent {
+  padding-top: 5%;
+  padding-bottom: 3%;
+}
+
+.megaphone-icon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 3%;
+}
+
+.img-container2 {
+  padding-top: 3%;
+}
+
+.boosting-trust {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 4%;
+}
+
+.img-container3 {
+  padding-top: 4%;
+  padding-bottom: 5%;
+}
+
+.content-writing {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#contactinfo {
+  display: inline;
+  font-family: "Source Sans Pro";
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: white;
+  text-align: left;
+}
+
+#contactinfo p {
+  margin: 0;
+}
+
+#socialmediaicons {
+  text-align: right;
+}

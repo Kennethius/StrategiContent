@@ -1,0 +1,47 @@
+body {
+  font-family: 'Bebas Neue', Times New Roman;
+}
+
+footer {
+  font-size: 10px;
+  background-color: #002266;
+  padding: 2% 15%;
+}
+
+.background {
+  background-color: #002266;
+}
+
+.faq-header {
+  padding-bottom: 5%;
+}
+
+.questions {
+  padding: 5% 15%;
+}
+
+.questions2 {
+    padding: 5% 15%;
+}
+
+.questions3 {
+  padding: 5% 15%;
+}
+
+.questions4 {
+  padding: 5% 15%;
+}
+
+
+#contactinfo {
+  display: inline;
+  font-family: "Source Sans Pro";
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: white;
+  text-align: left;
+}
+
+#contactinfo p {
+  margin: 0;
+}

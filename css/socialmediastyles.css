@@ -1,0 +1,78 @@
+body {
+  font-family: 'Bebas Neue', Times New Roman;
+}
+
+footer {
+  font-size: 10px;
+  background-color: #002266;
+  padding: 2% 15%;
+}
+
+.background {
+  background-color: #002266;
+}
+
+.text-container {
+  padding: 5% 15%;
+}
+
+#ContentSells {
+  padding-bottom: 3%;
+
+}
+
+.fb-icon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 4%;
+}
+
+
+.twitter-icon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+.img-container3 {
+  padding-top: 5%;
+}
+
+.googleplus-icon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 4%;
+}
+
+.socialcont {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 5%;
+}
+
+.plansocial{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#contactinfo {
+  display: inline;
+  font-family: "Source Sans Pro";
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: white;
+  text-align: left;
+}
+
+#contactinfo p {
+  margin: 0;
+}
+
+#socialmediaicons {
+  text-align: right;
+}

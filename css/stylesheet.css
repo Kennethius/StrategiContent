@@ -1,0 +1,388 @@
+body {
+  font-family: 'Bebas Neue', Times New Roman;
+  min-height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+form {
+  padding: 4% 1%;
+  text-align: center;
+
+}
+
+footer {
+  font-size: 10px;
+  background-color: #002266;
+  padding: 2% 15%;
+}
+
+input {
+  padding: 0.5% 20px;
+  margin: 4px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(fonts/BEBAS___.ttf);
+}
+
+.background {
+  background-color: #002266;
+}
+
+.main-jumbo {
+  background-image: url(../img/colorillustration.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 0;
+}
+
+.want-more-sales {
+background-color: #002266;
+color: white;
+padding: 6% 10% 4% 10%;
+
+}
+
+.profile-pic {
+  text-align: center;
+}
+
+.button {
+  color: white;
+  background-color: #FFD071;
+}
+
+.review {
+  float: right;
+}
+
+
+#lead {
+  color: black;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.about {
+	padding: 50px 100px;
+	text-align: center;
+}
+
+.trust {
+  text-align: center;
+  padding: 1%;
+}
+
+.card-info {
+  padding: 5% 12%;
+}
+
+.btn {
+  color: white;
+  background-color: #002266;
+}
+
+.text-container {
+  background: #FFD071;
+	padding: 5% 20% 0;
+}
+
+.info {
+	padding: 2%  0;
+    justify-content: center;
+}
+
+.video-frame {
+  text-align: center;
+}
+
+#contactinfo {
+  display: inline;
+  font-family: "Source Sans Pro";
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: white;
+  text-align: left;
+}
+
+#contactinfo p {
+  margin: 0;
+}
+
+
+.jumbotron {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+
+.fTextContainer {
+  margin-top: 150px;
+  margin-right: 700px;
+}
+
+
+/**/
+#StrategicContent {
+  word-spacing: 6px;
+  font-family: "Bebas";
+  font-size: 100px;
+  color: #002266;
+  top: 4.7em;
+  z-index: 2;
+}
+
+#ContentSells {
+  color: grey;
+  letter-spacing: 1px;
+  font-family: "Source Sans Pro";
+}
+
+#HomeText {
+  font-size: 13px;
+  color: #818182;
+  top: 4.7em;
+}
+
+
+.container .col-md-4 {
+  text-align: left;
+  width: 400px;
+  margin-left: 50px;
+}
+
+.container .col-md-7 {
+  width: 40px;
+  margin-left: 90px;
+}
+
+.container .col-md-5 {
+  text-align: left;
+  margin-right: 10px;
+  margin-top: 40px;
+  margin-left: 299px;
+  width: 700px;
+}
+
+.container .col-md-6 {
+  text-align: left;
+  margin-right: 10px;
+  margin-top: -220px;
+  z-index: 1;
+}
+
+.horizontalline {
+  margin-top: 190px;
+  width: 700px;
+}
+
+.horizontalbar {
+  margin-top: 360px;
+  width: 700px;
+}
+
+/* Web Content Creation */
+.jumbotron p {
+  font-size: 14px;
+}
+
+.img-container {
+  float: left;
+  width: 300px;
+  text-align: left;
+}
+
+.img-container2 {
+  float: center;
+  margin-left: 400px;
+  width: 300px;
+  text-align: left;
+}
+
+.img-container3 {
+  float: right;
+  margin-right: -70px;
+  margin-top: -605px;
+  width: 300px;
+  text-align: left;
+}
+
+/*socialcont*/
+.socialcont {
+  margin-top: 190px;
+  letter-spacing: 1px;
+}
+
+.socialp {
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+
+.img-container4 {
+  float: right;
+  margin-right: -70px;
+  margin-top: -446px;
+  width: 300px;
+  text-align: left;
+}
+
+.jumbotron .infographic p {
+  font-family: "Source Sans Pro";
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 1.5px;
+  width: 131px;
+  height: 200px;
+  color: #ffffff;
+  left: 209px;
+  top: -191px;
+}
+
+/*clients*/
+.clients {
+  list-style-type: none;
+  display: block;
+  width: 1316px;
+  overflow: hidden;
+}
+
+.clients li p {
+  display: none;
+  position: absolute;
+  top: 40;
+  /* bottom: 0; */
+  right: 0;
+  left: 130px;
+  margin: 0;
+  margin-top: 147px;
+  font-size: 20px;
+  line-height: 160%;
+  width: 410px;
+  height: 73px;
+  padding: 20px;
+  background-color: #ffd071;
+  color: #fff;
+}
+
+.clients li:hover p {
+  display: block;
+}
+
+/*contact*/
+.contactpage {
+  width: 783px;
+  height: 780px;
+  background-color: #ffd071;
+}
+
+.address {
+  text-align: left;
+  left: 192px;
+}
+
+.address .addresstext {
+  left: 200px;
+  top: -91px;
+}
+
+.e-mail .mailtext {
+  position: ;
+  top: -55px;
+  left: 188px;
+}
+
+.contkact {
+  font-family: "Bebas";
+  font-size: 48px;
+  color: #ffffff;
+  margin-top: 60px;
+  padding-top: 20px;
+  margin-left: -98px;
+  letter-spacing: 3px;
+}
+
+.body {
+  margin-top: 20px;
+  font-size: 25px;
+  color: #002266;
+  text-align: left;
+  letter-spacing: 2px;
+}
+
+.number {
+  position: ;
+  left: 193px;
+  top: -94px;
+}
+
+.number .numbertext {
+  position: ;
+  top: -63px;
+  left: 200px;
+}
+
+. {
+  font-family: "Bebas";
+  font-size: 48px;
+  color: #002266;
+  margin-top: -82px;
+  margin-left: 1000px;
+  letter-spacing: 3px;
+}
+
+.gmap {
+  margin-left: -100px;
+  margin-top: -117px;
+}
+
+.gmap p {
+  position: ;
+  top: 57px;
+  color: #002266;
+  font-size: 14px;
+}
+
+ {
+  position: ;
+  left: 900px;
+  top: -720px;
+  font-size: 25px;
+  width: 400px;
+}
+
+ p {
+  margin-bottom: 40px;
+}
+
+
+
+/* footer */
+.TextContainer p {
+  letter-spacing: 1px;
+}
+
+
+
+
+
+#socialmediaicons {
+  text-align: right;
+}
+
+#submit {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin-left: -34px;
+  margin-top: 136px;
+}

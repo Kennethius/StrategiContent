@@ -1,0 +1,45 @@
+body {
+  font-family: 'Bebas Neue', Times New Roman;
+}
+
+
+footer {
+  font-size: 10px;
+  background-color: #002266;
+  padding: 2% 15%;
+}
+
+
+.background {
+  background-color: #002266;
+}
+
+.communication {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 5%;
+}
+
+.blog {
+  font-size: 16px;
+}
+
+
+.blogcontent {
+padding-right: 15%;
+padding-left: 15%;
+}
+
+
+#contactinfo {
+  display: inline;
+  font-family: "Source Sans Pro";
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: white;
+  text-align: left;
+}
+
+#contactinfo p {
+  margin: 0;
+}
