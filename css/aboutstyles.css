@@ -1,0 +1,235 @@
+body {
+  font-family: 'Work Sans', Times New Roman;
+  min-height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+footer {
+  font-size: 10px;
+  background-color: #002266;
+  padding: 2% 15%;
+}
+
+input {
+  padding: 0.5% 20px;
+  margin: 4px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+iframe {
+padding: 3% 0;
+}
+
+.background {
+  background-color: #002266;
+}
+
+.about-container {
+  padding: 5% 15% 5% 15%
+}
+
+.video {
+  text-align: center;
+}
+
+#contactinfo {
+  display: inline;
+  font-family: "Source Sans Pro";
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: white;
+  text-align: left;
+}
+
+#contactinfo p {
+  margin: 0;
+}
+
+
+
+
+
+/**/
+#StrategicContent {
+  word-spacing: 6px;
+  font-family: 'Bebas Neue', Times New Roman ;
+  font-size: 100px;
+  color: #002266;
+  top: 4.7em;
+  z-index: 2;
+}
+
+
+
+
+
+/* Web Content Creation */
+
+
+
+
+/*socialcont*/
+.socialcont {
+  margin-top: 190px;
+  letter-spacing: 1px;
+}
+
+.socialp {
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+
+.img-container4 {
+  float: right;
+  margin-right: -70px;
+  margin-top: -446px;
+  width: 300px;
+  text-align: left;
+}
+
+/*clients*/
+.clients {
+  list-style-type: none;
+  display: block;
+  width: 1316px;
+  overflow: hidden;
+}
+
+.clients li p {
+  display: none;
+  position: absolute;
+  top: 40;
+  /* bottom: 0; */
+  right: 0;
+  left: 130px;
+  margin: 0;
+  margin-top: 147px;
+  font-size: 20px;
+  line-height: 160%;
+  width: 410px;
+  height: 73px;
+  padding: 20px;
+  background-color: #ffd071;
+  color: #fff;
+}
+
+.clients li:hover p {
+  display: block;
+}
+
+/*contact*/
+.contactpage {
+  width: 783px;
+  height: 780px;
+  background-color: #ffd071;
+}
+
+.address {
+  text-align: left;
+  left: 192px;
+}
+
+.address .addresstext {
+  left: 200px;
+  top: -91px;
+}
+
+.e-mail .mailtext {
+  position: ;
+  top: -55px;
+  left: 188px;
+}
+
+.contkact {
+  font-family: "Bebas";
+  font-size: 48px;
+  color: #ffffff;
+  margin-top: 60px;
+  padding-top: 20px;
+  margin-left: -98px;
+  letter-spacing: 3px;
+}
+
+.body {
+  margin-top: 20px;
+  font-size: 25px;
+  color: #002266;
+  text-align: left;
+  letter-spacing: 2px;
+}
+
+.number {
+  position: ;
+  left: 193px;
+  top: -94px;
+}
+
+.number .numbertext {
+  position: ;
+  top: -63px;
+  left: 200px;
+}
+
+. {
+  font-family: "Bebas";
+  font-size: 48px;
+  color: #002266;
+  margin-top: -82px;
+  margin-left: 1000px;
+  letter-spacing: 3px;
+}
+
+.gmap {
+  margin-left: -100px;
+  margin-top: -117px;
+}
+
+.gmap p {
+  position: ;
+  top: 57px;
+  color: #002266;
+  font-size: 14px;
+}
+
+ {
+  position: ;
+  left: 900px;
+  top: -720px;
+  font-size: 25px;
+  width: 400px;
+}
+
+ p {
+  margin-bottom: 40px;
+}
+
+
+
+/* footer */
+.TextContainer p {
+  letter-spacing: 1px;
+}
+
+
+
+
+
+#socialmediaicons {
+  text-align: right;
+}
+
+#submit {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin-left: -34px;
+  margin-top: 136px;
+}
