@@ -1,11 +1,9 @@
 body {
-  font-family: 'Bebas Neue', Times New Roman;
+  font-family: 'Work Sans', Times New Roman;
   min-height: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
-}
-
-form {
+}m {
   padding: 4% 1%;
   text-align: center;
 
@@ -24,11 +22,6 @@ input {
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
-}
-
-@font-face {
-  font-family: myFirstFont;
-  src: url(fonts/BEBAS___.ttf);
 }
 
 .background {
@@ -131,12 +124,14 @@ padding: 6% 10% 4% 10%;
 /**/
 #StrategicContent {
   word-spacing: 6px;
-  font-family: "Bebas";
+  font-family: 'Bebas Neue', Times New Roman ;
   font-size: 100px;
   color: #002266;
   top: 4.7em;
   z-index: 2;
 }
+
+
 
 #ContentSells {
   color: grey;
